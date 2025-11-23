@@ -4,3 +4,58 @@ html{
     background-size: cover;
     background-position: center center;
 }
+.header{
+  list-style-type: none;
+  font-family: "Lacquer", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color:blanchedalmond;
+  font-size:xx-large;
+}
+.rooms{
+  list-style-type: none;
+  font-family: "Lacquer", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color:blanchedalmond;
+}
+.directions{
+  font-family: "Mynerve", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font: bold;
+  color: rgb(36, 20, 7);
+
+  display:flex;
+  justify-content: center;
+  position: relative;
+  top: 10px;
+  left:10px;
+}
+
+
+.start{
+  display:flex;
+  justify-content: space-evenly;
+  margin: 200 100 100 100;
+  padding-right: 60px;
+  padding-bottom: 60px;
+}
+
+
+
+.div{
+  margin: 100 100 100 100;
+}
+a{
+  text-decoration: none;
+}
+a:visited{
+  color:rgb(225, 192, 152);
+}
+a:hover{
+  color: rgb(255, 185, 81);
+}
+a:active{
+  color: rgb(255, 185, 81);
+}

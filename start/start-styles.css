@@ -4,3 +4,14 @@ html{
     background-size: cover;
     background-position: center center;
 }
+.header{
+  font-family: "Lacquer", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.nav{
+  font-family: "Mynerve", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font: bold;
+}
