@@ -11,6 +11,8 @@ html{
   font-style: normal;
   color:blanchedalmond;
   font-size:xx-large;
+  padding-left:90px;
+  padding-top:40px;
 }
 .rooms{
   list-style-type: none;
@@ -37,9 +39,27 @@ html{
 .start{
   display:flex;
   justify-content: space-evenly;
-  margin: 200 100 100 100;
-  padding-right: 60px;
-  padding-bottom: 60px;
+  margin: auto;
+  padding-right: 66px;
+  font-size: xx-large;
+  margin-bottom 200px;
+}
+.mudroom{
+  display:flex;
+  justify-content: space-evenly;
+  margin:300 300 300 300;
+  padding-right: 525px;
+  padding-top: 213.2px;
+  font-size: large;
+}
+.kitchen{
+  display:flex;
+  justify-content: space-evenly;
+  margin:300 300 300 300;
+  padding-left: 75px;
+  padding-right:135px;
+  padding-top: 142px;
+  font-size: large;
 }
 
 
