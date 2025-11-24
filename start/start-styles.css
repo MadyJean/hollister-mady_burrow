@@ -3,28 +3,62 @@ html{
     background-attachment: fixed;
     background-size: cover;
     background-position: center center;
+    color: blanchedalmond;
 }
 .header{
+  list-style-type: none;
   font-family: "Lacquer", system-ui;
   font-weight: 400;
   font-style: normal;
+  color:blanchedalmond;
+  font-size:xx-large;
+
+  display:flex;
+  justify-content: center;
 }
 .directions{
   font-family: "Mynerve", cursive;
   font-weight: 400;
   font-style: normal;
   font: bold;
-  color: rgb(36, 20, 7);
+  color:rgb(225, 192, 152);
+  font-size: smaller;
 
   display:flex;
   justify-content: center;
   position: relative;
-  top: 10px;
-  left:10px;
+  bottom: 125px;
+  right:20px;
+  left: 10px;
 }
 .nav{
   font-family: "Mynerve", cursive;
   font-weight: 400;
   font-style: normal;
   font: bold;
+  font-size: xx-large;
+  text-decoration: none;
+  list-style-type: none;
+
+  display:flex;
+  justify-content: center;
+  position: relative;
+  top: 380px;
+  left:470px;
+}
+
+
+a{
+  text-decoration: none;
+}
+a:visited{
+  color:rgb(225, 192, 152);
+}
+a:hover{
+  color: rgb(250, 170, 51);
+  font-size: larger;
+}
+a:active{
+  color: rgb(255, 185, 81);
+  
 }
