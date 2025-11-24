@@ -9,6 +9,19 @@ html{
   font-weight: 400;
   font-style: normal;
 }
+.directions{
+  font-family: "Mynerve", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font: bold;
+  color: rgb(36, 20, 7);
+
+  display:flex;
+  justify-content: center;
+  position: relative;
+  top: 10px;
+  left:10px;
+}
 .nav{
   font-family: "Mynerve", cursive;
   font-weight: 400;
