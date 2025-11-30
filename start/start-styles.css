@@ -30,6 +30,9 @@ html{
   bottom: 125px;
   right:20px;
   left: 10px;
+
+  background-color:rgb(184, 103, 80)
+  margin: 20 20 20 20;
 }
 .nav{
   font-family: "Mynerve", cursive;

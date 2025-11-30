@@ -4,3 +4,35 @@ html{
     background-size: cover;
     background-position: center center;
 }
+.map{
+padding-top: 50px;
+padding-left: 1350px;
+}
+.kitchen{
+padding-top: 150px;
+padding-left: 1350px;
+}
+footer{
+     font-family: "Lacquer", system-ui;
+     color: rgb(241, 206, 123);
+     display: flex;
+     justify-content: center;
+     margin: 300 300 300 300;
+     font-size: xx-large;
+}
+
+
+a{
+  text-decoration: none;
+  font-family: "Mynerve", cursive;
+  font-size: x-large;
+}
+a:visited{
+  color:rgb(225, 192, 152);
+}
+a:hover{
+  color: rgb(255, 185, 81);
+}
+a:active{
+  color: rgb(255, 185, 81);
+}
