@@ -4,14 +4,30 @@ html{
     background-size: cover;
     background-position: center center;
 }
+
+
 .map{
-padding-top: 50px;
+padding-top: 80px;
 padding-left: 1350px;
 }
 .kitchen{
-padding-top: 150px;
+padding-top: 140px;
 padding-left: 1350px;
 }
+.pile{
+  padding-top: 95px;
+  padding-left: 820px;
+}
+.coat{
+  padding-left: 495px;
+  padding-top:6px;
+}
+.box{
+padding-top: 85px;
+padding-left: 255px;
+}
+
+
 footer{
      font-family: "Lacquer", system-ui;
      color: rgb(241, 206, 123);
@@ -19,11 +35,13 @@ footer{
      justify-content: center;
      margin: 300 300 300 300;
      font-size: xx-large;
+     padding-top: 110px;
 }
 
 
 a{
   text-decoration: none;
+  list-style-type: none;
   font-family: "Mynerve", cursive;
   font-size: x-large;
 }

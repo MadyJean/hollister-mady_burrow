@@ -4,3 +4,46 @@ html{
     background-size: cover;
     background-position: center center;
 }
+
+
+.map{
+}
+header{
+    font-family: "Lacquer", system-ui;
+    color: rgb(241, 206, 123);
+    font-size: xx-large;
+    padding-left: 520px;
+}
+.shed{
+    padding-left: 1400px;
+}
+.living-room{
+    padding-right: 10px;
+}
+.fridge{
+    padding-left: 1030px;
+}
+.sink{
+    padding-left: 530px;
+}
+.worms{
+    padding-left: 1350px;
+    padding-top: 70px;
+}
+
+
+a{
+  text-decoration: none;
+  list-style-type: none;
+  font-family: "Mynerve", cursive;
+  font-size: xx-large;
+}
+a:visited{
+  color:rgb(225, 192, 152);
+}
+a:hover{
+  color: rgb(255, 185, 81);
+}
+a:active{
+  color: rgb(255, 185, 81);
+}
